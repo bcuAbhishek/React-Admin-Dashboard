@@ -22,25 +22,18 @@ concurrency:
     cancel-in-progress: false
 
 jobs:
+    # Build job
     build:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
               uses: actions/checkout@v4
-            - name: Install Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: 18
-            - name: Install Dependencies
-              run: npm install
-            - name: Build React Files
-              run: npm run build
             - name: Setup Pages
               uses: actions/configure-pages@v5
             - name: Build with Jekyll
               uses: actions/jekyll-build-pages@v1
               with:
-                  source: ./_site
+                  source: ./
                   destination: ./_site
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
