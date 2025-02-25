@@ -20,7 +20,6 @@ This admin dashboard provides a comprehensive interface for managing various asp
 -   **React** (v18.3.1) - Frontend library
 -   **Vite** (v5.4.10) - Build tool and development server
 -   **Tailwind CSS** (v3.4.15) - Utility-first CSS framework
--   **Framer Motion** (v11.11.17) - Animation library
 -   **Recharts** (v2.13.3) - Composable charting library
 -   **Lucide React** (v0.460.0) - Icon library
 -   **React Router DOM** (v6.28.0) - Routing solution
