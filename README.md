@@ -34,8 +34,6 @@ This admin dashboard provides a comprehensive interface for managing various asp
 ### Key Features
 
 -   Responsive design
--   Dark/Light mode support
--   Real-time data visualization
 -   Animated transitions
 -   Interactive charts and graphs
 -   Modern UI components
