@@ -177,4 +177,4 @@ npm run dev
 
 Abhishek Shrestha - learnobusek@gmail.com
 
-Project Link: [https://github.com/bcuAbhishek/admin-dashboard](https://github.com/yourusername/admin-dashboard)
+Project Link: [[https://github.com/bcuAbhishek/admin-dashboard](https://github.com/yourusername/admin-dashboard)](https://bcuabhishek.github.io/React-Admin-Dashboard/)
